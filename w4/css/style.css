@@ -1,9 +1,9 @@
-
 /* General Page Styles */
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, serif;
     padding: 20px;
     background-color: #F4F1EA;
+    color: #1F3A5F;
 }
 
 /* Shared Styles */
@@ -12,7 +12,8 @@ body {
     width: 100%;
     margin-bottom: 20px;
     padding: 20px;
-    border: 2px solid black;
+    border: 3px solid #1F3A5F;
+    border-radius: 15px;
     color: white;
 }
 
@@ -29,5 +30,5 @@ body {
 /* Text / Light Color */
 .text {
     background-color: #F4F1EA;
-    color: black;
+    color: #1F3A5F;
 }
