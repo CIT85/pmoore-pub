@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #F4F1EA;
+}
+
+/* Shared styles for both cards */
+.card {
+    background-color: #F4F1EA;
+    color: #1F3A5F;
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px;
+}
+
+/* Unique style for Box A */
+.box-a {
+    border-color: #1F3A5F;
+    margin-bottom: 50px;
+}
+
+/* Unique style for Box B */
+.box-b {
+    border-color: #2A9D8F;
+    border-radius: 30px;
+}
