@@ -20,6 +20,7 @@ body {
         url("../images/hero-new.png");
     background-size: cover;
     background-position: center center;
+    background-repeat: no-repeat;
 }
 
 /* Hero headings */
@@ -46,6 +47,7 @@ body {
         url("../images/texture-new.png");
     background-size: cover;
     background-position: center bottom;
+    background-repeat: no-repeat;
 }
 
 /* Article heading - descendant selector */
@@ -59,7 +61,7 @@ body {
     color: white;
 }
 
-/* Article text */
+/* Article paragraph */
 .attendance-card p {
     color: #eeeeee;
     line-height: 1.7;
